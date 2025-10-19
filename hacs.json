@@ -3,6 +3,8 @@
   "content_in_root": false,
   "render_readme": true,
   "description": "A Lovelace card to visualize power flows with dual battery support.",
+    "filename": "ems-power-flow-card.js",
+
   "authors": ["BeardNinja1985"],
   "type": "plugin",
   "homeassistant": "2022.11.0",
